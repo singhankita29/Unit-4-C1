@@ -7,6 +7,7 @@ const AddTask = () => {
     <div className={styles.todoForm}>
       <input data-cy="add-task-input" type="text" />
       <button data-cy="add-task-button"></button>
+     
     </div>
   );
 };
